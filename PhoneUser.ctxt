@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=PhoneUser
+comment1.params=phone
+comment1.target=PhoneUser(Phone)
+comment2.params=
+comment2.target=void\ turnOnThePhone()
+comment3.params=
+comment3.target=void\ turnOffThePhone()
+comment4.params=
+comment4.target=void\ makePhoneLouder()
+comment5.params=
+comment5.target=void\ makePhoneSilent()
+numComments=6
