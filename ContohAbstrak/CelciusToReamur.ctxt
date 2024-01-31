@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CelciusToReamur
+comment1.params=celcius
+comment1.target=CelciusToReamur(double)
+comment2.params=
+comment2.target=double\ getArea()
+numComments=3
