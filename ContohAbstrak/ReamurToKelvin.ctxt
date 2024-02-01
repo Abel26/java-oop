@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ReamurToKelvin
+comment1.params=reamur
+comment1.target=ReamurToKelvin(double)
+comment2.params=
+comment2.target=double\ getArea()
+numComments=3

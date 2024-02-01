@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=FahrenheitToCelcius
+comment1.params=fahrenheit
+comment1.target=FahrenheitToCelcius(double)
+comment2.params=
+comment2.target=double\ getArea()
+numComments=3
