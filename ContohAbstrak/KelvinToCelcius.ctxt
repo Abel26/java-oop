@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=KelvinToCelcius
+comment1.params=kelvin
+comment1.target=KelvinToCelcius(double)
+comment2.params=
+comment2.target=double\ getArea()
+numComments=3
